@@ -1,7 +1,7 @@
 # frida_scripts
-Frida Scripts
-Run Below command to know the process of your target App
-frida-ps -U
+Frida Scripts </br>
+Run Below command to know the process of your target App</br>
+frida-ps -U</br></br>
 
-Run below command 
+Run below command </br>
 frida -U -l <fileName.js> <process>
